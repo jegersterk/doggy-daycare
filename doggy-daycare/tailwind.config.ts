@@ -12,7 +12,7 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
 		customYellow: '#FED253',
-		customBlue: '#4C8FAB',
+		customBlue: 'var(--customBlue)',
       },
 	  textShadow: {
         'default': '2px 2px 4px rgba(0, 0, 0, 0.5)',
