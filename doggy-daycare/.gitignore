@@ -24,6 +24,8 @@
 .DS_Store
 *.pem
 run.txt
+run.md
+api-key.ts
 
 # debug
 npm-debug.log*
